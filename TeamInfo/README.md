@@ -1,16 +1,21 @@
 # Project Title
 
+**Predicting Bank Term Deposit Subscriptions**
+
 ## Team Information
 
 ### Team Name
-*Replace this with your team name*
+
+**team-x**
 
 ### Team Members
-1. *Member 1 Name (GitHub Username)*
-2. *Member 2 Name (GitHub Username)*
-3. *Member 3 Name (GitHub Username)*
+
+1. **Saugat Ojha (Saugatojha)**
+2. **Rakesh Kumar Sah (sah70022-blip)**
+3. **Naitik Shrestha (NaitikdLuffy)**
 
 ### Task Division
-- **Member 1**: *Describe tasks assigned (e.g., data analysis and EDA)*
-- **Member 2**: *Describe tasks assigned (e.g., Model validation and creation)*
-- **Member 3**: *Describe tasks assigned (e.g., application development and data tasks)*
+
+- **Saugat Ojha**: Data analysis and Exploratory Data Analysis (EDA)  
+- **Rakesh Kumar Sah**: Data cleaning and visualizations  
+- **Naitik Shrestha**: Python application development, documentation, and designing

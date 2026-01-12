@@ -6,7 +6,7 @@
 
 ### Team Name
 
-**team-x**
+**Team Fintech**
 
 ### Team Members
 

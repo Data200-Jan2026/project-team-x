@@ -86,4 +86,4 @@ Students will apply statistical and predictive modeling techniques to analyze a 
 - **Python Application Development (10%)**  
 - **Presentation and Collaboration (20%)**
 
----
+---test

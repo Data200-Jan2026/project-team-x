@@ -1,16 +1,22 @@
-# Project Title
+# 📊 Data 200 – Applied Statistical Analysis  
+## Project Work  
+### “Exploring Real-World Data through Statistical and Predictive Modeling”
 
-## Team Information
+---
 
-### Team Name
-*Replace this with your team name*
+# 🏦 Project Title  
+**A Statistical and Predictive Modeling Approach to Bank Term Deposit Subscription**
 
-### Team Members
-1. *Member 1 Name (GitHub Username)*
-2. *Member 2 Name (GitHub Username)*
-3. *Member 3 Name (GitHub Username)*
+---
 
-### Task Division
-- **Member 1**: *Describe tasks assigned (e.g., data analysis and EDA)*
-- **Member 2**: *Describe tasks assigned (e.g., Model validation and creation)*
-- **Member 3**: *Describe tasks assigned (e.g., application development and data tasks)*
+## 👥 Team Information  
+
+### Team Name  
+**Team Fintech**
+
+### Team Members  
+1. **Saugat Ojha (Saugatojha)** – Data Analysis & Exploratory Data Analysis (EDA)  
+2. **Rakesh Kumar Sah (sah70022-blip)** – Data Cleaning & Visualizations  
+3. **Naitik Shrestha (NaitikdLuffy)** – Python Application Development, Documentation & Design  
+
+---
